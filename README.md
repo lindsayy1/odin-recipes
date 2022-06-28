@@ -1,1 +1,4 @@
 # odin-recipes
+This project consists of creating a website with a main page where a user is able to acess the links to three different recipe pages.  
+
+In the completion of this project a number of skills are demonstrated. Firstly, this project shows the very basic skill of creating an HTMl document along with the boilerplate. Beyond the basic HTML document, this project exhbits vital knowledge of text elements. This includes paragraphs, headings, and italicized text. Another skill illusrated in this project is the utilization of lists, both ordered and unordered. Two more noteworthy skills presented are links and images. In the application of images, attributes like alternative text are also included. In this project relative links are the type of link exhbited. Lastly, the ability to write appropriate, meaningful, and well timed commit messages is displayed.
