@@ -2,10 +2,17 @@
 .magic,
 .cowboy,
 .popcorn {
-    color: purple;
+    
 }
 
 .title {
-    font-size: 40ppx;
-    font-weight: 700;
+    font-family: "Courier New", monospace;
+    color:whitesmoke;
+    background-color: mediumseagreen;
+    font-size: 40px;
+
+}
+
+#whole-list{
+    
 }
