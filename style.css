@@ -1,0 +1,11 @@
+.title,
+.magic,
+.cowboy,
+.popcorn {
+    color: purple;
+}
+
+.title {
+    font-size: 40ppx;
+    font-weight: 700;
+}
