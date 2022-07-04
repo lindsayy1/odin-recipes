@@ -1,18 +1,22 @@
-.title,
+.title{
+    text-align: center;
+}
+
 .magic,
 .cowboy,
 .popcorn {
-    
+    font-size: 35px;
 }
 
 .title {
     font-family: "Courier New", monospace;
-    color:whitesmoke;
-    background-color: mediumseagreen;
+    color: darkslateblue;
+    background-color: lightgreen;
     font-size: 40px;
 
 }
 
-#whole-list{
-    
+.recipes{
+    text-align: center;
+    list-style: inside;
 }
