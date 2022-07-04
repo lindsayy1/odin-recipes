@@ -1,4 +1,4 @@
-.title{
+body {
     text-align: center;
 }
 
@@ -6,17 +6,18 @@
 .cowboy,
 .popcorn {
     font-size: 35px;
+    font-family: "Courier New", monospace;
 }
 
 .title {
     font-family: "Courier New", monospace;
     color: darkslateblue;
     background-color: lightgreen;
-    font-size: 40px;
+    font-size: 60px;
 
 }
 
 .recipes{
-    text-align: center;
-    list-style: inside;
+    display: inline-block; 
+	text-align: left; 
 }
