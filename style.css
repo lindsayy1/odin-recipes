@@ -2,14 +2,20 @@ body {
     text-align: center;
 }
 
+.recipes{
+    display: inline-block; 
+	text-align: left; 
+}
+
 .magic,
 .cowboy,
 .popcorn {
     font-size: 35px;
     font-family: "Courier New", monospace;
+
 }
 
-.title {
+.large {
     font-family: "Courier New", monospace;
     color: darkslateblue;
     background-color: lightgreen;
@@ -17,7 +23,3 @@ body {
 
 }
 
-.recipes{
-    display: inline-block; 
-	text-align: left; 
-}
